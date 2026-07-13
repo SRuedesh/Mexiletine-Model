@@ -2307,7 +2307,7 @@
       ]
     },
     {
-      "Name": "Mexiletine 83.31 mg po bid EM prediction",
+      "Name": "Labbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (EM) prediction",
       "Model": "4Comp",
       "ObservedData": [
         "Labbe2000.Mexiletine.m/f.83.31.po.EM"
@@ -2456,7 +2456,7 @@
       "OutputMappings": [
         {
           "Scaling": "Log",
-          "Path": "Mexiletine 83.31 mg po bid EM prediction|Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
+          "Path": "Labbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (EM) prediction|Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
           "ObservedData": "Labbe2000.Mexiletine.m/f.83.31.po.EM"
         }
       ],
@@ -2554,7 +2554,7 @@
             {
               "Name": "Mexiletine simulated",
               "X": "Time",
-              "Y": "Mexiletine 83.31 mg po bid EM prediction|Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
+              "Y": "Labbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (EM) prediction|Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
@@ -2572,7 +2572,7 @@
               }
             }
           ],
-          "Name": "Mexiletine 83.31 mg po bid EM",
+          "Name": "Labbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (EM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -2590,13 +2590,13 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Mexiletine 83.31 mg po bid EM",
-          "OriginText": "Mexiletine\nMexiletine 83.31 mg po bid EM prediction\n2020-07-29 12:59"
+          "Title": "Labbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (EM)",
+          "OriginText": "Mexiletine\nLabbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (EM) prediction\n2020-07-29 12:59"
         }
       ]
     },
     {
-      "Name": "Mexiletine 83.31 mg po bid PM prediction",
+      "Name": "Labbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (PM) prediction",
       "Model": "4Comp",
       "ObservedData": [
         "Labbe2000.Mexiletine.m/f.83.31.po.PM"
@@ -2743,7 +2743,7 @@
       "OutputMappings": [
         {
           "Scaling": "Log",
-          "Path": "Mexiletine 83.31 mg po bid PM prediction|Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
+          "Path": "Labbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (PM) prediction|Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
           "ObservedData": "Labbe2000.Mexiletine.m/f.83.31.po.PM"
         }
       ],
@@ -2840,7 +2840,7 @@
             {
               "Name": "Mexiletine simulated",
               "X": "Time",
-              "Y": "Mexiletine 83.31 mg po bid PM prediction|Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
+              "Y": "Labbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (PM) prediction|Organism|PeripheralVenousBlood|Mexiletine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
@@ -2858,7 +2858,7 @@
               }
             }
           ],
-          "Name": "Mexiletine 83.31 mg po bid PM",
+          "Name": "Labbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (PM)",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -2876,8 +2876,8 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "Title": "Mexiletine 83.31 mg po bid PM",
-          "OriginText": "Mexiletine\nMexiletine 83.31 mg po bid PM prediction\n2020-07-29 13:06"
+          "Title": "Labbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (PM)",
+          "OriginText": "Mexiletine\nLabbé (2000) - mexiletine, 100 mg b.i.d. po, n=1 (PM) prediction\n2020-07-29 13:06"
         }
       ]
     },
